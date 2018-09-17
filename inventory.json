@@ -1,0 +1,53 @@
+{
+    "rice": [
+        {
+            "name": "type-0",
+            "weight": 5,   
+            "price": 70
+        },
+        {
+            "name": "type-1",
+            "weight": 3,
+            "price": 90
+        },
+        {
+            "name": "type-2",
+            "weight": 4,
+            "price": 110 
+        }
+    ],
+    "pulses": [
+        {
+            "name": "type-0",
+            "weight": 4,
+            "price": 80
+        },
+        {
+            "name": "type-1",
+            "weight": 2,
+            "price": 90 
+        },
+        {
+            "name": "type-2",
+            "weight": 5 ,
+            "price": 120 
+        }
+    ],
+    "wheat": [
+        {
+            "name": "type-0",
+            "weight": 2,
+            "price": 90
+        },
+        {
+            "name": "type-1",
+            "weight": 1,
+            "price": 100 
+        },
+        {
+            "name": "type-1",
+            "weight": 4,
+            "price": 130 
+        }
+    ]
+}

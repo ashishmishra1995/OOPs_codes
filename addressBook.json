@@ -1,0 +1,31 @@
+{
+    "contact": [
+        {
+            "name": "ashish",
+            "phone": "+918658822547",
+            "address": {
+                "city": "mumbai",
+                "state": "maharstra",
+                "zip": "400088"
+            }
+        },
+        {
+            "name": "lohita",
+            "phone": "+918658822547",
+            "address": {
+                "city": "mumbai",
+                "state": "mh",
+                "zip": "400074"
+            }
+        },
+        {
+            "name": "rohan",
+            "phone": "+918763327937",
+            "address": {
+                "city": "gunupur",
+                "state": "odisha",
+                "zip": "650077"
+            }
+        }
+    ]
+}
